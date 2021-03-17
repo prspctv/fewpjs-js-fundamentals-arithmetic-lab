@@ -1,6 +1,6 @@
 
 // Write your code here
-const num1 = 31 
+const num1 = 31
 const num2 = 2
 let multiply = num1 * num2;
 // return multiply;
@@ -14,3 +14,4 @@ const num3= 4
 const num4= 6
 
 const max = Math.max(16, 17, 18, 19, 20);
+
